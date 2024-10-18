@@ -1,10 +1,12 @@
 ## Hi there, My name is D'Artaniel Catabona 👋
- EDUCATION
- <h5>
-  <br>
-  NEW ERA UNIVERSITY
+<h1>
+ Education
+ <br>
+ <h3>
+  New Era Univeristy
    <br>
-  BSIT 
+  BSIT
    <br>
-  2023 - Present
-</h5>
+  2023-Present
+ </h3>
+</h1>
