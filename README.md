@@ -1,4 +1,4 @@
-<h1>## Hi there, My name is D'Artaniel Catabona 👋</h1>
+## <h1> Hi there, My name is D'Artaniel Catabona 👋</h1>
 My Name is D'Artaniel A. Catabona, I like to learn more about
 <h1>Education</h1>
  BSIT
