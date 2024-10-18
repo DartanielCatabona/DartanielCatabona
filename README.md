@@ -2,9 +2,10 @@
 <h2>
   
 </h2>
-<br>
+
 <h2>
  EDUCATION
+  <br>
   NEW ERA UNIVERSITY
   BSIT 
   2023 - Present
