@@ -1,6 +1,6 @@
 ## <h1> Hi there, My name is D'Artaniel Catabona 👋</h1>
-<h6> I like to learn more about databases, to expand my knowledge and also to be proficient in database, 
- in this journey I will gain more  experiences about in the IT Industry.</h6>
+ I like to learn more about databases, to expand my knowledge and also to be proficient in database, 
+ in this journey I will gain more  experiences about in the IT Industry.
 <h2>Education</h2>
 <h6> BSIT
    <br>
