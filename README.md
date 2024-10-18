@@ -2,11 +2,11 @@
 <h1>
  Education
  <br>
- <h3>
+ <h6>
   New Era Univeristy
    <br>
   BSIT
    <br>
   2023-Present
- </h3>
+ </h6>
 </h1>
