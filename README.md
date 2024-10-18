@@ -3,8 +3,8 @@
  Education
  <br>
 </h1>
-New Era Univeristy
+ BSIT
    <br>
-  BSIT
+New Era Univeristy
    <br>
   2023-Present
