@@ -1,10 +1,6 @@
 ## Hi there, My name is D'Artaniel Catabona 👋
-<h2>
-  
-</h2>
-
-<h5>
  EDUCATION
+ <h5>
   <br>
   NEW ERA UNIVERSITY
    <br>
