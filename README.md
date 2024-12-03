@@ -9,7 +9,7 @@ New Era Univeristy
   2023-Present
   <h2>Certifications</h2>
   <a href = "https://courses.cognitiveclass.ai/certificates/211e363f43574220a3bdb0f67c9ad9e5"> SQL and Relational Databases 101</a> <br>
-  <a href = "">OCI Foundations Associate</a>
+  <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE2D60D66DC3B06D9E8B963245E209E6C92&fbclid=IwY2xjawG7fvxleHRuA2FlbQIxMQABHS5ug4_shFgLDbgU71-hl49ceG8hyPjDpM-G8tzOI1-2OIK0ffuYqejsUg_aem_WeDQ_kDndW23FxpZx7ZClQ">OCI Foundations Associate</a>
   <h2>Skill Set</h2>
    Programming: Java, HTML, Database: IBM Db2 Cloud, Tools: LucidChart, Eclipse, VSCode
 
