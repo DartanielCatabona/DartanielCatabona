@@ -9,8 +9,9 @@ New Era Univeristy
   2023-Present
   <h2>Certifications</h2>
   <a href = "https://courses.cognitiveclass.ai/certificates/211e363f43574220a3bdb0f67c9ad9e5"> SQL and Relational Databases 101</a> <br>
-  <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE2D60D66DC3B06D9E8B963245E209E6C92&fbclid=IwY2xjawG7fvxleHRuA2FlbQIxMQABHS5ug4_shFgLDbgU71-hl49ceG8hyPjDpM-G8tzOI1-2OIK0ffuYqejsUg_aem_WeDQ_kDndW23FxpZx7ZClQ">OCI Foundations Associate</a>
-    <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DCABCD892DAB9448F5474573E7AEB4169E8059AA3D732D3315CD210A56F4A37&fbclid=IwY2xjawHEpaNleHRuA2FlbQIxMQABHQWdgEvQ01W02QP-WzUevzDcth6er_uRL5QJ09Rfetgj0djwWv7DUdbVAw_aem_rGjJ9ugAvmp_Ed3LZZQ5NA">OCI Foundations Associate AI</a>
+  <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE2D60D66DC3B06D9E8B963245E209E6C92&fbclid=IwY2xjawG7fvxleHRuA2FlbQIxMQABHS5ug4_shFgLDbgU71-hl49ceG8hyPjDpM-G8tzOI1-2OIK0ffuYqejsUg_aem_WeDQ_kDndW23FxpZx7ZClQ">OCI Foundations Associate</a><br>
+  <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DCABCD892DAB9448F5474573E7AEB4169E8059AA3D732D3315CD210A56F4A37&fbclid=IwY2xjawHEpaNleHRuA2FlbQIxMQABHQWdgEvQ01W02QP-WzUevzDcth6er_uRL5QJ09Rfetgj0djwWv7DUdbVAw_aem_rGjJ9ugAvmp_Ed3LZZQ5NA">OCI Foundations Associate AI</a><br>
+  <a href = "">OCI Data Foundations Associate</a><br>
   <h2>Skill Set</h2>
    Programming: Java, HTML, Database: IBM Db2 Cloud, Tools: LucidChart, Eclipse, VSCode
 
