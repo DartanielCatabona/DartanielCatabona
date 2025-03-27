@@ -16,3 +16,6 @@ New Era Univeristy
   <h2>Skill Set</h2>
    Programming: Java, HTML, Database: IBM Db2 Cloud, Tools: LucidChart, Eclipse, VSCode
 
+
+<h2> Webinars </h2>
+https://www.youtube.com/live/8aYp0YFewy8?si=5wl9GYQm-V7SN67f -->> Securing Cloud Infrastructure With Confidential Computing
