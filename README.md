@@ -12,7 +12,7 @@ New Era Univeristy
   <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE2D60D66DC3B06D9E8B963245E209E6C92&fbclid=IwY2xjawG7fvxleHRuA2FlbQIxMQABHS5ug4_shFgLDbgU71-hl49ceG8hyPjDpM-G8tzOI1-2OIK0ffuYqejsUg_aem_WeDQ_kDndW23FxpZx7ZClQ">OCI Foundations Associate</a><br>
   <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DCABCD892DAB9448F5474573E7AEB4169E8059AA3D732D3315CD210A56F4A37&fbclid=IwY2xjawHEpaNleHRuA2FlbQIxMQABHQWdgEvQ01W02QP-WzUevzDcth6er_uRL5QJ09Rfetgj0djwWv7DUdbVAw_aem_rGjJ9ugAvmp_Ed3LZZQ5NA">OCI Foundations Associate AI</a><br>
   <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE29DFE51561B3122C1647013A7B69F5AC2&fbclid=IwZXh0bgNhZW0CMTEAAR0MndJRxJMHf0rkxgDWo3wxWX4WC-Fub0oTljlOYzK7FCkOMGY047W84oA_aem_xj3WA32SNdg-eOxFgggZsQ">OCI Data Foundations Associate</a><br>
-  < a href = "blob:https://skillbuilder.aws/77b32fa5-754f-4eb0-802d-fe570ebf44f9">AWS Training & Certification Completion Certificate Exam Prep Plan Overview: AWS Certified</a><br>
+  < a href = "https://skillbuilder.aws/77b32fa5-754f-4eb0-802d-fe570ebf44f9">AWS Training & Certification Completion Certificate Exam Prep Plan Overview: AWS Certified</a><br>
 
   <h2>Skill Set</h2>
    Programming: Java, HTML, Database: IBM Db2 Cloud, Tools: LucidChart, Eclipse, VSCode
