@@ -13,7 +13,7 @@ New Era Univeristy
   <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DCABCD892DAB9448F5474573E7AEB4169E8059AA3D732D3315CD210A56F4A37&fbclid=IwY2xjawHEpaNleHRuA2FlbQIxMQABHQWdgEvQ01W02QP-WzUevzDcth6er_uRL5QJ09Rfetgj0djwWv7DUdbVAw_aem_rGjJ9ugAvmp_Ed3LZZQ5NA">OCI Foundations Associate AI</a><br>
   <a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E0B702A5DE4CE0F9B655B3A176A52FE29DFE51561B3122C1647013A7B69F5AC2&fbclid=IwZXh0bgNhZW0CMTEAAR0MndJRxJMHf0rkxgDWo3wxWX4WC-Fub0oTljlOYzK7FCkOMGY047W84oA_aem_xj3WA32SNdg-eOxFgggZsQ">OCI Data Foundations Associate</a><br>
   
-  <a href = "raw:https://skillbuilder.aws/6149acc9-b8f3-4cec-b7a4-90d8fff09f56">AWS Training & Certification Exam Prep Plan Overview: AWS Certified</a><br>
+  <a href = "https://skillbuilder.aws/6149acc9-b8f3-4cec-b7a4-90d8fff09f56">AWS Training & Certification Exam Prep Plan Overview: AWS Certified</a><br>
 
   <h2>Skill Set</h2>
    Programming: Java, HTML, Database: IBM Db2 Cloud, Tools: LucidChart, Eclipse, VSCode
